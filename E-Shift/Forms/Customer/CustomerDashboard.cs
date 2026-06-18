@@ -206,6 +206,7 @@ namespace E_Shift
             }
         }
 
+        
         // Empty event handler for lblCustomerDashboard (can be removed if unused)
         private void lblCustomerDashboard_Click(object sender, EventArgs e) { }
     }
