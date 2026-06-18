@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient; // Required for SQL database interaction
 using System.Windows.Forms.DataVisualization.Charting; // Required for Chart control (for creating graphs)
 
+
 namespace E_Shift
 {
     public partial class frmCustomerDashboard : Form
